@@ -32,7 +32,7 @@ directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Obtain Username (and if needed Trip Id) from Polarsteps.com and add it to the plugin's settings (see FAQs)
 1. Create Trip (with at least one Step) on Polarsteps.com and make sure it is public
-1. If WP-Cron is not activated. Install & activate Cronjob Plugin e.g. `Cronjob Scheduler`
+1. If WP-Cron is not activated. Install & activate Cronjob Plugin e.g. 'WP Control' (https://wp-crontrol.com/)
 1. Schedule the action `polarsteps_update_steps` whenever needed e.g. hourly
 1. Add the widget to your page to see the last location ("Step") on your page
 
